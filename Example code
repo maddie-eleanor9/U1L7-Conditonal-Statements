@@ -1,0 +1,28 @@
+#do now
+#logged_in = False
+
+#print("User logged in?:" + str(logged_in))
+
+#the capitalization actually matters
+#why does this need to be capitalized but other things dont?
+
+
+##9
+#is_raining = False
+#print("It is raining: " + str(is_raining))
+
+##10
+#is_raining = True
+
+#if(is_raining == True):
+   # print("Get an umbrella!")
+#print("Have a nice day!")
+
+##11
+
+#entered_number = input("Enter a number: ")
+
+#if(int(entered_number) > 0):
+    print("That is a positive number!")
+#else:
+    print("That is NOT a positive number!")
